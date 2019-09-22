@@ -1,0 +1,38 @@
+body {
+    font-family: helvetica;
+    font-size: 15px;
+    color: white;
+    margin: 2px;
+    background-color: blue;
+     }
+
+h2 {
+    font-family: Helvetica;
+    font-size: 80px;
+    color: white;
+    position: relative;
+    height: 20px;
+   }
+
+h3 {
+    font-family: Helvetica;
+    font-size: 60px;
+    color: white;
+    position: absolute;
+    right: 30px;
+    top: 100px;
+   }
+
+.text{
+position: absolute;
+right: 50%;
+top: 200px;
+margin: 5px;
+border: solid white 4px;
+padding: 30px;
+}
+
+#author{
+    font-size: 60px;
+    border-bottom: solid white 3px;
+}

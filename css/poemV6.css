@@ -1,0 +1,37 @@
+body {
+    font-family: monospace;
+    font-size: 20px;
+    background-color: #ff1616;
+
+
+}
+
+h2 {
+    font-family: helvetica;
+    position: relative;
+    font-size: 200px;
+
+}
+
+h3 {
+    font-family: helvetica;
+    position: absolute;
+    right: 50px;
+    top: 500px;
+    width: 20%;
+}
+
+
+
+.container {
+    margin: 40px;
+    padding: 30px;
+    border: solid white 8px;
+    position: absolute;
+    top: 900px;
+    left:calc(50% - 100px);
+    color: white;
+}
+#cagedbird{
+    color: white;
+}

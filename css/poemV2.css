@@ -1,0 +1,68 @@
+body {
+    font-family: monospace;
+    font-size: 15px;
+}
+
+h2 {
+    font-family: Helvetica;
+    position: relative;
+}
+
+h3 {
+    font-family: Helvetica;
+    position: absolute;
+    right:30px;
+    top:50px;
+    width: 20%;
+}
+
+.paragraph1 {
+    background-color: #f6629c;
+    margin: 10px;
+    border: solid black 3px;
+    padding: 10px
+
+}
+
+
+
+.paragraph2 {
+    background-color: #f6d662;
+    margin: 10px;
+    border: solid black 3px;
+    padding: 10px
+
+}
+
+.paragraph3 {
+    background-color: #f6629c;
+    margin: 10px;
+    border: solid black 3px;
+    padding: 10px
+}
+
+.paragraph4 {
+    background-color: #f6d662;
+    margin: 10px;
+    border: solid black 3px;
+    padding: 10px
+}
+
+.paragraph5 {
+    background-color: #f6629c;
+    margin: 10px;
+    border: solid black 3px;
+    padding: 10px
+}
+
+.paragraph6 {
+    background-color: #f6d662;
+    margin: 10px;
+    border: solid black 3px;
+    padding: 10px
+}
+
+#cagedbird {
+    font-size: 30px;
+
+}

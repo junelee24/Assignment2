@@ -1,0 +1,33 @@
+
+body {
+    font-family: helvetica;
+    font-size: 15px;
+    color:white;
+}
+
+h2 {
+    font-family: Helvetica;
+    position: relative;
+    color: black;
+    font: 50px;
+}
+
+h3 {
+    font-family: Helvetica;
+    position: absolute;
+    right: 430px;
+    top: 50px;
+    width: 20%;
+    color:red;
+}
+
+#title {
+    color: red;
+}
+
+.container {
+    margin: 40px;
+    border: solid red 20px;
+    background-color: black;
+    padding: 30px;
+}

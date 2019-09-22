@@ -1,0 +1,38 @@
+body {
+    font-family: fantasy;
+    font-size: 15px;
+    background-color: #f9f5df;
+}
+
+h2 {
+    font-family: fantasy;
+    position: relative;
+    font-size: 80px;
+    top: 50px;
+}
+
+h3 {
+    font-family: fantasy;
+    position: absolute;
+    right: 430px;
+    top: 50px;
+    width: 20%;
+}
+
+
+
+.container {
+    margin: 40px;
+    border: solid white 4px;
+    padding: 200px;
+    position: absolute;
+    top: 400px;
+    left:300px;
+}
+#why{
+    font-size:100px;
+}
+#cagedbird{
+    font-size: 105px;
+
+}
